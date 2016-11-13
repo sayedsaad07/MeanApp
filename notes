@@ -1,0 +1,16 @@
+npm install express jade
+git init
+install bower
+bower init
+install jquery 
+
+client side notifications
+install toastr
+
+Angular 
+install angular angular-resource angular-route 
+
+Setup server.js
+install nodemon 
+
+configure stylus
